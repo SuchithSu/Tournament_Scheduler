@@ -3,4 +3,4 @@ Our project address the issue of scheduling a tournament of varying sizes and st
 
 ---
 
-The Final Report.ipynb file contains the details of the project and results from the simulated data
+The [Final Report](Final Report.ipynb) jupyter file contains the details of the project and results from the simulated data, the same information is available in [PDF](Final Report.pdf) format
